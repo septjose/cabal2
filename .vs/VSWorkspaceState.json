@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "\\app",
+    "\\public",
+    "\\public\\js",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\crud",
+    "\\resources\\views\\principal"
+  ],
+  "SelectedNode": "\\resources\\views\\crud\\rol.blade.php",
+  "PreviewInSolutionExplorer": false
+}
